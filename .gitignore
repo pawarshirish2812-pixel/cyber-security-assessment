@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive keys
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.log
+
+# Packet captures
+*.pcap
+*.pcapng
+
+# Burp temporary files
+burp_temp/
+
+# ZAP temporary files
+zap_temp/
